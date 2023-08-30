@@ -1,0 +1,26 @@
+[
+  {
+    "username": "Admin",
+    "email": "admin@mail.com",
+    "password": "12345",
+    "role": "Admin",
+    "phoneNumber": 1234777,
+    "address": "Pondok Labu"
+  },
+  {
+    "username": "Staff",
+    "email": "staff@mail.com",
+    "password": "12345",
+    "role": "Staff",
+    "phoneNumber": 1234666,
+    "address": "Cikampek"
+  },
+  {
+    "username": "Customer",
+    "email": "customer@mail.com",
+    "password": "12345",
+    "role": "Customer",
+    "phoneNumber": 12346555,
+    "address": "Pondok Indah"
+  }
+]
